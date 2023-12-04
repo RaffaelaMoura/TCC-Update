@@ -1,0 +1,66 @@
+*,
+*:before,
+*:after {
+ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --background: #000000;
+    --background-modal: DeepPink;
+
+    --link-light-green: DeepPink;
+    --link-normal-green: DeepPink;
+    --link-dark-green: DarkOrchid;
+
+
+    --light-green: #71D59A;
+    --normal-green: #9370DB;
+    --dark-green: #294D38;
+
+    --light-red: #EC7171;
+    --normal-red: Crimson;
+    --dark-red: Red;
+
+    --light-blue: Indigo;
+    --normal-blue: Fuchsia;
+    --dark-blue: BlueViolet;
+
+    --light-green-syphrao: DeepPink;
+    --normal-green-syphrao: DeepPink;
+    --dark-green-syphrao: DeepPink;
+
+    --money-green: DeepPink;
+    --money-red: DeepPink;
+
+    --color-modal-overlay: DeepPink;
+    --shadow: Indigo;
+}
+body {
+    background: var(--background);
+    font-family: 'Poppins', sans-serif;
+	
+}
+html {
+    font-size: 93.75%;
+}
+
+.sr-only {
+    width: 1px;
+    height: 1px;
+
+    border-width: 0;
+
+    margin: -1px;
+    padding: 0;
+    position: absolute;
+
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+}
+
+.container {
+    width: min(90vw, 800px);
+    margin: 3rem auto 0;
+}	

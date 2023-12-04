@@ -1,0 +1,32 @@
+body {
+	background-color: Black;
+	color: White;
+	font-family: Andale Mono, monospace;
+	font-size: 20px;
+	}	
+
+header {
+	background-color: BlueViolet;
+	background-image: url(https://wallpapercave.com/wp/wp2625799.jpg);
+	color: Lavender;
+	font-size: 200px;
+	text-align: center;
+	font-family: Andale Mono, monospace;
+}	
+
+a {
+	color: MediumSlateBlue;
+}	
+
+
+
+
+footer {
+	color: MediumSlateBlue;
+	font-size: 20px;
+	text-align: center;
+}	
+
+.fin {
+	text-align: center;
+}

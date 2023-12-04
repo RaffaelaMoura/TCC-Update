@@ -1,0 +1,58 @@
+body {
+	background-color: Black;
+	color: White;
+	font-family: Andale Mono, monospace;
+	font-size: 20px;
+	}	
+
+header {
+	background-color: BlueViolet;
+	background-image: url(https://wallpapercave.com/wp/wp2625799.jpg);
+	color: Lavender;
+	font-size: 200px;
+	text-align: center;
+	font-family: Andale Mono, monospace;
+}	
+
+a {
+	color: MediumSlateBlue;
+}	
+
+.sobre {
+	color: MediumSlateBlue;
+	font-size: 25px;
+}	
+
+.t1 {
+	background-color: Indigo;
+}
+
+.log {
+	text-align: center;
+	background-color: MediumPurple;
+	color: Black;
+	font-size: 25px;
+}
+
+.cads {
+	color: Indigo;
+	font-size: 40px;
+}
+
+footer {
+	color: MediumSlateBlue;
+	font-size: 20px;
+	text-align: center;
+}	
+
+.warn1 {
+	color: Lavender;
+	background-color: Indigo;
+	text-align: center;
+}	
+
+.warn2 {
+	color: Indigo;
+	background-color: Lavender;
+	text-align: center;
+}	
